@@ -14,4 +14,4 @@ const client = new Client({
     ]
 })
 
-client.login(process.env.BOT_TOKEN)
+client.login(process.env.BOTOKEN)
